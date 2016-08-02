@@ -1,0 +1,4 @@
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.Entity\bin\Debug\BaseArchitecture.Entity.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.Entity\bin\Debug\BaseArchitecture.Entity.pdb
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.Entity\obj\Debug\BaseArchitecture.Entity.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.Entity\obj\Debug\BaseArchitecture.Entity.pdb

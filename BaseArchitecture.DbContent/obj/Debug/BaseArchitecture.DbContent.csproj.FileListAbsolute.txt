@@ -1,0 +1,9 @@
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\BaseArchitecture.DbContent.dll.config
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\BaseArchitecture.DbContent.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\BaseArchitecture.DbContent.pdb
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\EntityFramework.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\EntityFramework.xml
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\obj\Debug\BaseArchitecture.DbContent.dll
+D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DbContent\obj\Debug\BaseArchitecture.DbContent.pdb
