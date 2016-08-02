@@ -12,3 +12,17 @@ D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.D
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.csprojResolveAssemblyReference.cache
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.dll
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\BaseArchitecture.DataAccess.dll.config
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\BaseArchitecture.DataAccess.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\BaseArchitecture.DataAccess.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\BaseArchitecture.DbContent.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\EntityFramework.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\Ninject.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\BaseArchitecture.DbContent.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\EntityFramework.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\bin\Debug\Ninject.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.csprojResolveAssemblyReference.cache
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.DataAccess\obj\Debug\BaseArchitecture.DataAccess.pdb

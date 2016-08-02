@@ -16,3 +16,21 @@ D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.B
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.csprojResolveAssemblyReference.cache
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.dll
 D:\Shanil Shah\Project Hub\ExoStar\Structure\BaseArchitecture\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.BusinessLogic.dll.config
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.BusinessLogic.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.BusinessLogic.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.DataAccess.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.DbContent.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.Entity.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\Ninject.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.DataAccess.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.DbContent.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\BaseArchitecture.Entity.pdb
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\bin\Debug\Ninject.xml
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.dll
+D:\Shanil Shah\GitRepository\RepositoryPattern\BaseArchitecture.BusinessLogic\obj\Debug\BaseArchitecture.BusinessLogic.pdb
